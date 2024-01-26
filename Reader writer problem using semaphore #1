@@ -1,0 +1,6 @@
+Reader writer problem using semaphore
+=>one set of data is shared among a number of problem
+=>once a writer is ready it performs it's weite only one weiter may weite a time
+=>if a process is weitting, no other process can read it
+=>it atleast one reader is reading, no other process can weite.
+=>reader may not write and only read.
